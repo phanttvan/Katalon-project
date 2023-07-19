@@ -58,3 +58,4 @@ def inputPasswordMethod(def input_pass,def value_pass){
 	WebUI.sendKeys (input_pass, value_pass)
 }
 println()
+println()
