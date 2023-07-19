@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_AddStoreTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87cf4b13-9fad-4e03-89c6-ae7514f6a9e5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ec7e0c3e-d9ed-483f-8695-6533c36a7424</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ec7e0c3e-d9ed-483f-8695-6533c36a7424</id>
+      <masked>false</masked>
+      <name>storename</name>
+   </variable>
+</TestCaseEntity>

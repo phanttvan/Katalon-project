@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004_Login_Storefront</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4eabf7f-3931-44f8-b0bf-3718e8c8e0bf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b5022e92-1fcb-47c0-9a9e-85443dad8813</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7e5c96d4-8747-40bf-8353-f1cf87a07067</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a3b01c46-d537-4f4f-8f4c-92458c4f94d3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('input_email_storefront')</defaultValue>
+      <description></description>
+      <id>b5022e92-1fcb-47c0-9a9e-85443dad8813</id>
+      <masked>false</masked>
+      <name>input_email</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('input_password_storefront')</defaultValue>
+      <description></description>
+      <id>7e5c96d4-8747-40bf-8353-f1cf87a07067</id>
+      <masked>false</masked>
+      <name>input_pass</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('btn_login_storefront')</defaultValue>
+      <description></description>
+      <id>a3b01c46-d537-4f4f-8f4c-92458c4f94d3</id>
+      <masked>false</masked>
+      <name>submit_form</name>
+   </variable>
+</TestCaseEntity>
