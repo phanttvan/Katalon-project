@@ -48,7 +48,7 @@ WebUI.openBrowser('https://auto2023.myshopify.com/account/login')
 
 inputEmailMethod(input_email , accountListObject.account1.email)
 inputEmailMethod(input_pass ,accountListObject.account1.pass)
-WebUI.click(submit_from) 
+WebUI.click(submit_form) 
 WebUI.takeScreenshot('loginStorefront.png')
 
 def inputEmailMethod(def input_email,def value_email){
